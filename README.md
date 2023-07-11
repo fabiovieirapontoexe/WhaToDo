@@ -23,9 +23,9 @@ Observação: Em caso do SGBD ser diferente, é necessário adicionar as depend�
 
 ---
 
-Já a segunda versão pode ser adquirida [→ AQUI ](https://objects.githubusercontent.com/github-production-release-asset-2e65be/664485122/81b01291-eb6d-449b-9ba9-207c8e7318f1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230711%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230711T014633Z&X-Amz-Expires=300&X-Amz-Signature=022c52ce73c17266660382196bf617b29a20571993cdf668a3971c6feae79991&X-Amz-SignedHeaders=host&actor_id=49982931&key_id=0&repo_id=664485122&response-content-disposition=attachment%3B%20filename%3Dinstall-whatodo.exe&response-content-type=application%2Foctet-stream) A mesma foi desenvolvida usando um arquivo de banco local, feito em SQLite e gerado um fatJar a partir de todas as classes e dependências da aplicação para ser **EASY-2-USE**. Foi também utilizado a versão gratuita do software [Install Creator 2 by Clickteam](https://www.clickteam.com/install-creator-2) para gerar um instalador e automatizar o processo.
+Já a segunda versão pode ser adquirida [→ AQUI ](https://objects.githubusercontent.com/github-production-release-asset-2e65be/664485122/81b01291-eb6d-449b-9ba9-207c8e7318f1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230711%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230711T014633Z&X-Amz-Expires=300&X-Amz-Signature=022c52ce73c17266660382196bf617b29a20571993cdf668a3971c6feae79991&X-Amz-SignedHeaders=host&actor_id=49982931&key_id=0&repo_id=664485122&response-content-disposition=attachment%3B%20filename%3Dinstall-whatodo.exe&response-content-type=application%2Foctet-stream). A mesma foi desenvolvida usando um arquivo de banco de dados local, feito em SQLite e gerado um fatJar a partir de todas as classes e dependências da aplicação para ser **EASY-2-USE**. Foi também utilizado a versão gratuita do software [Install Creator 2 by Clickteam](https://www.clickteam.com/install-creator-2) para gerar um instalador e automatizar o processo.
 
-Sendo assim, essa versão não há necessidade de nenhuma configuração e instalação adicional.
+Sendo assim, essa versão não há necessidade de fazer configuração e instalação adicional.
 
 | Requisito |Versão  |
 |--|--|
