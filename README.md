@@ -1,5 +1,5 @@
 # WhaToDo!?
-## > "Do you know what you need to do? WhaToDo!" 
+> ## "Do you know what you need to do? WhaToDo!" 
 
 
 https://github.com/fabiovieirapontoexe/WhaToDo/assets/49982931/8a0f515c-2502-40f1-8e9c-a73c828fd86d
@@ -39,7 +39,7 @@ Sendo assim, essa versão não há necessidade de nenhuma configuração e insta
 3. Cria o atalho do fatJar (arquivo `.jar` que contém toda a aplicação) na área de trabalho para facilitar a execução.
 
 
-# >**E prontinho! Agora é só usar. 💜👀📋🥳🎉**
+> # **E prontinho! Agora é só usar. 💜👀📋🥳🎉**
 
 ---
 
