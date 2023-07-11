@@ -5,7 +5,7 @@ Projeto desenvolvido durante o curso de **PROGRAMAÇÃO: LÓGICA DE ALGORITMOS I
 
 A primeira versão desenvolvida pode ser adquirida [→ AQUI ](https://github.com/fabiovieirapontoexe/WhaToDo.git), faz a instanciação do banco de dados na classe `DatabaseConnector.java` em  `\app\src\main\java\util\` possibilitando que configure de acordo com seu SGBD.
 
-![image](https://github.com/fabiovieirapontoexe/WhaToDo/assets/49982931/7272bc9b-f5da-4c91-aa1c-dc95db03279a)
+![image_8](https://github.com/fabiovieirapontoexe/WhaToDo/assets/49982931/ce8f053c-7fde-458c-855f-54715360ffe4)
 
 | Requisito |Versão  |
 |--|--|
